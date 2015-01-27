@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<openerp>
+	<data>
+		<report id="account_invoices"
+			string="Facture_Montant en lettres"
+			model="account.invoice"
+			name="account.invoice.letters"
+			rml="facture_montant_lettres/report/invoice.rml"   
+                        attachment="(object.state in ('open','paid')) and ('INV'+(object.number or '').replace('/','')+'.pdf')"
+			auto="False"/>
+          
+          <report id="sale_order"
+			string="Commande_Montant en lettres"
+			model="sale.order"
+			name="sale.order.letters"
+			rml="facture_montant_lettres/report/sale_order.rml"            
+			auto="False"/>     
+	</data>
+</openerp>
