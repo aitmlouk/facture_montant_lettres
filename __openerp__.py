@@ -25,7 +25,7 @@
     'version': '1.0',
     'depends': ['account'],
     "author" : "Ait-Mlouk Addi",
-    "website" : "http://aitmlouk.esy.es/",
+    "website" : "http://odoo-services.esy.es/",
     'description': 'Module qui permet de  convertir le montant d/une commmande / facture au lettres (en Francais) et l"ajoute  au rapport de la facture',
     'category': 'Generic Modules/Accounting',
     'icon': '/facture_montant_lettres/static/src/img/icon.png',
