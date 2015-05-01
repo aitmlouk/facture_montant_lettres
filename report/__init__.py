@@ -5,7 +5,7 @@
 
 #    Copyright (C) 2004-2009 Tiny SPRL (<http://tiny.be>).
 #    Copyright (C) 2015  Ait-Mlouk Addi  ( aitmlouk@gmail.com)
-#                        (http://aitmlouk.esy.es/)
+#                        http://odoo-services.esy.es/
 
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as

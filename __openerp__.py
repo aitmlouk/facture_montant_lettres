@@ -4,7 +4,7 @@
 #    OpenERP, Open Source Management Solution
 
 #    Copyright (C) 2004-2009 Tiny SPRL (<http://tiny.be>).
-#    Copyright (C) 2014  Ait Mlouk Addi  / Tél : 0672977726 /  Gmail : aitmlouk@gmail.com.
+#    Copyright (C) 2014  Ait Mlouk Addi (http://odoo-services.esy.es/)   Gmail : aitmlouk@gmail.com.
 
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
